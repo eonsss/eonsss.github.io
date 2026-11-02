@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /LawOffice/old/
+Disallow: /LawOffice/b/
+
+Sitemap: https://eonsss.github.io/LawOffice/sitemap.xml
